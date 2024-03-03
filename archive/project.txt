@@ -1,0 +1,9 @@
+Description of archive project
+
+
+
+This is the project with python language and django framework.
+We use API in it.
+In this project,different users can enter with username and email and password
+and upload different files.
+They can only upload one file in each series and the category of each file most be specified.
